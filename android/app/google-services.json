@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "635577939466",
+    "firebase_url": "https://damas-91b65-default-rtdb.firebaseio.com",
+    "project_id": "damas-91b65",
+    "storage_bucket": "damas-91b65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635577939466:android:ea04e013a59fac96b611f3",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635577939466-86vmd844t46liq42gpu6ke7iol0r247o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqm9FkAq-MFf2MXNfd1nGZV0N8MiqF2FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635577939466-86vmd844t46liq42gpu6ke7iol0r247o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635577939466-erie7dovihkqrrrsse603k3ak59d5l8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.weddingapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635577939466:android:10db0ca9fd231451b611f3",
+        "android_client_info": {
+          "package_name": "com.mycompany.strem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635577939466-9bdikihu2l7a3hc8uf97omfp652mgm20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.strem",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "635577939466-86vmd844t46liq42gpu6ke7iol0r247o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqm9FkAq-MFf2MXNfd1nGZV0N8MiqF2FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635577939466-86vmd844t46liq42gpu6ke7iol0r247o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635577939466-erie7dovihkqrrrsse603k3ak59d5l8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.weddingapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635577939466:android:b22d6dfa4d508ce3b611f3",
+        "android_client_info": {
+          "package_name": "kaleo.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635577939466-86vmd844t46liq42gpu6ke7iol0r247o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqm9FkAq-MFf2MXNfd1nGZV0N8MiqF2FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635577939466-86vmd844t46liq42gpu6ke7iol0r247o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635577939466-erie7dovihkqrrrsse603k3ak59d5l8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.weddingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
